@@ -268,7 +268,7 @@ body {
 
 .direction-l .desc,
 .direction-r .desc {
-	position: relative;
+	position: fixed;
 	margin: 1em 1em 0 1em;
 	padding: 1em;
 	
